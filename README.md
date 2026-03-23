@@ -1,4 +1,4 @@
-<p align="center">  <img src="./banner.png" alt="Hacker Kitty" width="900"></p>
+<p align="center">  <img src="./banner.png" alt="Hacker Kitty" width="800"></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TON_PROFIL_ICI" target="_blank">
