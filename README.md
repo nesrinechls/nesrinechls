@@ -1,72 +1,65 @@
-# Salut, je suis Nesrine Charles 👋
+<h1 align="center">Salut, je suis Nesrine Charles 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nesrine-charles)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nesrinecharles@gmail.com)
+<h3 align="center">Étudiante en BUT Informatique (Réseaux) | Passionnée par la Cybersécurité</h3>
 
-**Étudiante en 2e année de BUT Informatique (Réseaux) à Paris-Saclay, passionnée par la cybersécurité.**
-
-> 🚨 **RECHERCHE DE STAGE** : Je cherche activement un stage de **12 à 15 semaines** (du 20 avril au 10 juillet 2026) en réseaux, cybersécurité ou développement.
-
----
-
-### 👩‍💻 À propos de moi
-
-- 💻 **Domaines de prédilection** : Développement d'applications, architecture logicielle et administration réseau.
-- 🌱 **Apprentissage continu** : Cybersécurité, administration système (Linux) et gestion de bases de données.
-- 🤝 **Profil polyvalent** : Master 1 en Marketing Digital et expérience en management à l'étranger (Australie), m'apportant une forte capacité d'adaptation et d'analyse.
-
----
-
-### 🛠️ Compétences Techniques
-
-| Catégorie | Outils & Technologies |
-| :--- | :--- |
-| **Développement** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Bases de Données** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Looping](https://img.shields.io/badge/Looping-4B4B4B?style=flat-square) ![Mocodo](https://img.shields.io/badge/Mocodo-4B4B4B?style=flat-square) |
-| **Systèmes & Réseaux**| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![DNS](https://img.shields.io/badge/DNS-107C10?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-107C10?style=flat-square) ![SSH](https://img.shields.io/badge/SSH-107C10?style=flat-square) ![TCP/IP](https://img.shields.io/badge/TCP%20/%20IPv4%20/%20ICMP-107C10?style=flat-square) |
-| **Gestion de Projet** | ![Agile Scrum](https://img.shields.io/badge/Scrum-20232A?style=flat-square) ![Gantt](https://img.shields.io/badge/Diagramme_de_Gantt-20232A?style=flat-square) ![UML](https://img.shields.io/badge/UML-20232A?style=flat-square) ![Penpot](https://img.shields.io/badge/Penpot-20232A?style=flat-square) ![Droit](https://img.shields.io/badge/Droit_Info_(CNIL,_RGPD)-20232A?style=flat-square) |
-
----
-*Contactez-moi via [LinkedIn](https://www.linkedin.com/in/nesrine-charles) ou par e-mail !*# Salut, je suis Nesrine Charles 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nesrine-charles)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nesrinecharles@gmail.com)
-
-**Étudiante en 2e année de BUT Informatique (Réseaux) à Paris-Saclay, passionnée par la cybersécurité.**
-
-> 🚨 **RECHERCHE DE STAGE** : Je cherche activement un stage de **12 à 15 semaines** (du 20 avril au 10 juillet 2026) en réseaux, cybersécurité ou développement.
-
----
-
-### 👩‍💻 À propos de moi
-
-- 💻 **Domaines de prédilection** : Développement d'applications, architecture logicielle et administration réseau.
-- 🌱 **Apprentissage continu** : Cybersécurité, administration système (Linux) et gestion de bases de données.
-- 🤝 **Profil polyvalent** : Master 1 en Marketing Digital et expérience en management à l'étranger (Australie), m'apportant une forte capacité d'adaptation et d'analyse.
-
----
-
-### 🛠️ Compétences Techniques
-
-**Développement**
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<p align="center">
+  <b>🚨 EN RECHERCHE DE STAGE (12 à 15 semaines) : 20 avril - 10 juillet 2026 🚨</b>
 </p>
 
-**Systèmes, Réseaux & BDD**
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Protocols-DNS%20%7C%20DHCP%20%7C%20SSH-lightgrey?style=flat-square" />
-</p>
+###
 
-**Outils & Méthodes** : Agile Scrum, UML, Conformité (RGPD/CNIL).
+<div align="center">
+  <a href="https://www.linkedin.com/in/nesrine-charles" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:nesrinecharles@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+  </a>
+</div>
 
----
-*Contactez-moi via [LinkedIn](https://www.linkedin.com/in/nesrine-charles) ou par e-mail !*
+###
+
+<h3 align="center">💻 Développement</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="c# logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+</div>
+
+###
+
+<h3 align="center">🗄️ Systèmes & Bases de Données</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nesrinechls&locale=fr&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=nesrinechls&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
