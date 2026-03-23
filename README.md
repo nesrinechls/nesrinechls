@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Nesrine Charles 👋</h1>
-
+<p align="center">  <img src="./nom_de_ton_image.png" alt="Hacker Kitty" width="600"></p>
 <h3 align="center">💻 Développement</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
