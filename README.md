@@ -1,32 +1,17 @@
 <p align="center">  <img src="./banner.png" alt="Hacker Kitty" width="1000"></p>
-<h3 align="center">💻 Développement</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="c# logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-</div>
 
-###
-
-<h3 align="center">🗄️ Systèmes & Bases de Données</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/TON_PROFIL_ICI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-D56989?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:nesrinecharles@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA9CAF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://ncharl.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-C2DC80?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ###
