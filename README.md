@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-EA9CAF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://ncharl.com" target="_blank">
+  <a href="https://ncharl.fr" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-C2DC80?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </p>
