@@ -1,7 +1,7 @@
 <p align="center">  <img src="./banner.png" alt="Hacker Kitty" width="800"></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON_PROFIL_ICI" target="_blank">
+  <a href="https://www.linkedin.com/in/nesrine-charles" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-D56989?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
